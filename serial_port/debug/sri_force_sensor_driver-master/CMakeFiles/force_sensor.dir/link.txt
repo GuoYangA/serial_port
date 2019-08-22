@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC -g  -shared -Wl,-soname,libforce_sensor.so -o ../devel/lib/libforce_sensor.so CMakeFiles/force_sensor.dir/src/sri3dforcesensorrs232driver.cpp.o 

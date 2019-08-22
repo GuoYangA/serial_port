@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: serial_port
+Description: Description of serial_port
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

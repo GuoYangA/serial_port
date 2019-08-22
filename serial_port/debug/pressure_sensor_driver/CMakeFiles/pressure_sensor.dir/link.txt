@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC -g  -shared -Wl,-soname,libpressure_sensor.so -o ../devel/lib/libpressure_sensor.so CMakeFiles/pressure_sensor.dir/src/pressuresensorrs485driver.cpp.o 
