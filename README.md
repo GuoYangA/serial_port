@@ -11,6 +11,3 @@ roscore
 rosrun pressure_sensor pressure_sensor_demo_node
 
 ```
-`roscore`
-`rosrun pressure_sensor pressure_sensor_demo_node`
-  
